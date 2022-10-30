@@ -17,9 +17,9 @@ My name is Ana and I am a currently an MPH student in the Biostatistics concentr
 
 📫 How to reach me: (anbravo@fiu.edu)
 
-**Twitter:** https://twitter.com/anabananaqtpie
-**Linkedin:** https://www.linkedin.com/in/anabravobiostats/
-🌈 **Pronouns:** She/Her/Hers
+- **Twitter:** https://twitter.com/anabananaqtpie
+- **Linkedin:** https://www.linkedin.com/in/anabravobiostats/
+- 🌈 **Pronouns:** She/Her/Hers
 
 ⚡ Fun fact: I'm Originally from Ecuador 🇪🇨 Miami Florida 🇺🇸 and i speak both English and Spanish
 
