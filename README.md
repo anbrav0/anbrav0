@@ -5,11 +5,11 @@ My name is Ana and I am a currently an MPH student in the Biostatistics concentr
 
 🔭 I’m currently working with the SUNLab @ FIU as a Senior Research Assistant for the ABCD Study!
 
-🌱 I’m currently _alot_ about R and RStudio at the graduate student level 
+🌱 I’m currently learning _alot_ about R and RStudio at the graduate student level 
 
 👯 I’m looking to collaborate on advanced statistical programming software with other members in the public health field
 
-💻 Ask me about Statistics/Public Health
+🧩 Ask me about Statistics/Public Health/ Health disparities 
 
 📚 My interests include substance use disorders, reproducible data, and open sourced science
 
