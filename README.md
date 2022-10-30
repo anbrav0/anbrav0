@@ -21,5 +21,5 @@ My name is Ana and I am currently an MPH student in the Biostatistics concentrat
 - **Linkedin:** https://www.linkedin.com/in/anabravobiostats/
 - 🌈 **Pronouns:** She/Her/Hers
 
-⚡ Fun fact: I'm Originally from Ecuador 🇪🇨 and Miami Florida 🇺🇸 I speak both English and Spanish.
+⚡ Fun fact: I'm originally from Ecuador 🇪🇨 and I speak both English and Spanish.
 
