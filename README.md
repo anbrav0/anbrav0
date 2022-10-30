@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hello there! 👋
 
 
 My name is Ana and I am a currently an MPH student in the Biostatistics concentration at FIU
