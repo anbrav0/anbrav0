@@ -11,7 +11,7 @@ My name is Ana and I am currently an MPH student in the Biostatistics concentrat
 
 🧩 Ask me about Statistics/Public Health/Health disparities 
 
-📚 My interests include substance use disorders, reproducible data, and open sourced science and machine learning
+📚 My interests include substance use disorders, reproducible data, open sourced science, and machine learning
 
 🔍 My goals are to continue improving my data science skills in R programming as well as continue my research in identifying risk factors in Latino/Latinx communities that contributed to the onset of adolescent and young adult substance abuse
 
