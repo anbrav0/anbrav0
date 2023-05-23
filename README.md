@@ -20,6 +20,7 @@ My name is Ana and I am currently an MPH student in the Biostatistics concentrat
 - **Twitter:** https://twitter.com/anabananaqtpie
 - **Linkedin:** https://www.linkedin.com/in/anabravobiostats/
 - 🌈 **Pronouns:** She/Her/Hers
+- check out my How to Health Science with Ana Blog: https://anbrav0.github.io/R-health-blog/
 
 ⚡ Fun fact: I'm originally from Ecuador 🇪🇨 and I speak both English and Spanish.
 
