@@ -1,7 +1,7 @@
 # Hello there! 👋
 
 
-My name is Ana and I am currently an MPH student in the Biostatistics concentration at FIU
+My name is Ana and:
 
 🔭 I’m currently working as a Data Scientist at the University of Miami!
 
