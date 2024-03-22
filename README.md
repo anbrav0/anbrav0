@@ -13,7 +13,7 @@ My name is Ana and:
 
 📚 My interests include substance use disorders, reproducible data and open sourced science.
 
-🔍 My goals are to continue improving my data science skills in R programming as well as continue my research in identifying risk factors in Latino/Latinx communities that contributed to the onset of adolescent and young adult substance abuse.
+🔍 My goals are to continue my research in identifying risk factors in Latino/Latinx communities that contributed to the onset of adolescent and young adult substance abuse.
 
 check out my How to Health Science with Ana Blog: https://anbrav0.github.io/R-health-blog/
 
@@ -23,5 +23,5 @@ check out my How to Health Science with Ana Blog: https://anbrav0.github.io/R-he
 - **Linkedin:** https://www.linkedin.com/in/anabravobiostats/
 - 🌈 **Pronouns:** She/Her/Hers
 
-⚡ Fun fact: I'm originally from Ecuador 🇪🇨 and I speak both English and Spanish.
+⚡ Fun fact: I speak multiple languages! Like R, SAS, STATA, and i'm learning Julia 
 
