@@ -16,11 +16,11 @@ My name is Ana and:
 🔍 My goals are to continue my research in identifying risk factors in Latino/Latinx communities that contributed to the onset of adolescent and young adult substance abuse.
 
 
-📫 How to reach me: (abrav043@fiu.edu)
+📫 How to reach me: (axb3199@med.miami.edu)
 
 - **Twitter:** https://twitter.com/anabananaqtpie
 - **Linkedin:** https://www.linkedin.com/in/anabravobiostats/
 - 🌈 **Pronouns:** She/Her/Hers
 
-⚡ Fun fact: I speak multiple languages! Like R, SAS, STATA, and i'm learning Julia 
+⚡ Fun fact: I speak multiple languages! Like R, SAS, STATA, and i'm learning Julia.
 
