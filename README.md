@@ -18,7 +18,7 @@ My name is Ana and:
 
 📫 How to reach me: (axb3199@med.miami.edu)
 
-- **Twitter:** https://twitter.com/anabananaqtpie
+- **Twitter:** https://x.com/anadoesbiostats
 - **Linkedin:** https://www.linkedin.com/in/anabravobiostats/
 - 🌈 **Pronouns:** She/Her/Hers
 
