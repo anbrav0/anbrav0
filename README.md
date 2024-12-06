@@ -16,7 +16,7 @@ My name is Ana and:
 🔍 My goals are to continue my research in identifying risk factors in Latino/Latinx communities that contributed to the onset of adolescent and young adult substance abuse.
 
 
-- **Blue:** https://bsky.app/profile/anabiostats.bsky.social
+- **Bluesky:** https://bsky.app/profile/anabiostats.bsky.social
 - **Linkedin:** https://www.linkedin.com/in/anabravobiostats/
 - 🌈 **Pronouns:** She/Her/Hers
 
